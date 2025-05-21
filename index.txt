@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Khám Phá Hòn Sơn</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Du Lịch Hòn Sơn</h1>
+    <p>Khám phá thiên nhiên hoang sơ & dịch vụ thuê xe tiện lợi</p>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h2>Về Hòn Sơn</h2>
+      <p>Hòn Sơn là một hòn đảo tuyệt đẹp thuộc tỉnh Kiên Giang, nổi tiếng với bãi biển hoang sơ, nước trong xanh và không khí trong lành.</p>
+    </section>
+
+    <section class="service">
+      <h2>Dịch vụ thuê xe máy</h2>
+      <p>Chúng tôi cung cấp xe máy chất lượng cao, giá cả hợp lý, giao nhận tận nơi trên đảo.</p>
+      <button onclick="contact()">Liên hệ thuê xe</button>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Du Lịch Hòn Sơn. Thiết kế bởi bạn.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
